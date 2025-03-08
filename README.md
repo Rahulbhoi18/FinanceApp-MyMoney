@@ -1,7 +1,7 @@
 # MyMoney
 Frontend and backend
 
-Setup Instructions
+##Setup Instructions
 1.Clone the repository:
 2.Create a .env file in the backend folder and add the following variables:
 3.Install dependencies:
